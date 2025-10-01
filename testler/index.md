@@ -8,9 +8,9 @@ layout: "layout.html"
 Bu site, GEO (Generative Engine Optimization) hipotezlerimizi test etmek için oluşturulmuştur.
 
 ## Kontrol Sayfaları
-- [kontrol-H1-AKI-01](/kontrol-h1-aki-01/)
-- [kontrol-H1-AKI-02](/kontrol-h1-aki-02/)
-- [kontrol-H1-BAS-01](/kontrol-h1-bas-01/)
+- [kontrol-H1-AKİ-01](/kontrol-h1-aki-01/)
+- [kontrol-H1-AKİ-02](/kontrol-h1-aki-02/)
+- [kontrol-H1A-BAS-01](/kontrol-h1-bas-01/)
 - [kontrol-H1-BAS-02](/kontrol-h1-bas-02/)
 - [kontrol-H1-KEY-01](/kontrol-h1-key-01/)
 - [kontrol-H1-KEY-02](/kontrol-h1-key-02/)
@@ -20,8 +20,8 @@ Bu site, GEO (Generative Engine Optimization) hipotezlerimizi test etmek için o
 - [kontrol-H1-UZU-02](/kontrol-h1-uzu-02/)
 
 ## Test Sayfaları
-- [test-H1-AKI-01](/test-h1-aki-01/)
-- [test-H1-AKI-02](/test-h1-aki-02/)
+- [test-H1-AKİ-01](/test-h1-aki-01/)
+- [test-H1-AKİ-02](/test-h1-aki-02/)
 - [test-H1-BAS-01](/test-h1-bas-01/)
 - [test-H1-BAS-02](/test-h1-bas-02/)
 - [test-H1-KEY-01](/test-h1-key-01/)
