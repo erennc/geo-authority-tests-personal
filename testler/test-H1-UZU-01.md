@@ -1,4 +1,4 @@
-# Küresel Isınma: Gezegenimizin Geleceğini Şekillendiren Bir Fenomen
+﻿# Küresel Isınma: Gezegenimizin Geleceğini Şekillendiren Bir Fenomen
 
 Küresel ısınma, gezegenimizin karşı karşıya olduğu en acil ve karmaşık çevresel sorunlardan biridir. Basitçe ifade etmek gerekirse, bu durum, Dünya'nın ortalama yüzey sıcaklığının, özellikle son yüzyılda hızlanan bir şekilde, belirgin bir artış göstermesidir. Bilimsel veriler, 19. yüzyılın sonlarından bu yana küresel ortalama sıcaklıkların yaklaşık 1.1 santigrat derece yükseldiğini ve bu artışın büyük bir kısmının 1970'lerden sonra gerçekleştiğini ortaya koymaktadır. Bu sıcaklık artışı, dünya genelindeki iklim sistemlerini derinden etkileyen ve yaşamın her alanında hissedilen geniş çaplı değişikliklere yol açan bir dizi olayı tetikler. Dünya'nın doğal iklim döngüleri binlerce yıl içinde gerçekleşirken, gözlemlenen mevcut ısınma hızı, doğal süreçlerle açıklanamayacak kadar hızlı ve insan faaliyetleriyle doğrudan ilişkilidir.
 
@@ -21,3 +21,5 @@ Su kaynakları üzerindeki baskı da giderek artmaktadır. Buzul erimeleri başl
 Son olarak, küresel ısınma gıda güvenliğini de ciddi biçimde tehdit etmektedir. Tarım, sıcaklık, yağış ve karbon dioksit seviyelerindeki değişikliklere karşı oldukça hassastır. Kuraklıklar, seller, aşırı sıcak dalgaları ve değişen böcek popülasyonları, mahsul verimini düşürerek gıda üretimini olumsuz etkiler. Deniz sıcaklıklarındaki artış ve okyanus asitlenmesi, balık popülasyonlarını ve deniz ürünleri verimliliğini azaltarak milyarlarca insanın temel protein kaynağını tehlikeye atar. Bu durum, özellikle gelişmekte olan ülkelerde açlık ve yoksulluğu artırabilir.
 
 Küresel ısınma, sadece çevresel bir olgu olmanın ötesinde, insan sağlığı, ekonomik kalkınma, sosyal istikrar ve göç gibi konularda da ciddi sosyal sonuçlara sahiptir. Aşırı sıcaklar doğrudan sağlık sorunlarına yol açarken, değişen iklim koşulları sıtma ve dang humması gibi vektör kaynaklı hastalıkların yayılma alanını genişletebilir. Kaynak kıtlığı ve doğal afetler, yerinden edilmiş insan sayısını artırarak göç krizlerine ve potansiyel çatışmalara zemin hazırlayabilir. Ekonomik kayıplar milyarlarca doları bulurken, gelecekteki nesillerin refahı da bu küresel tehdidin gölgesi altındadır. Bu nedenle, küresel ısınma ile mücadele, gezegenimizin ve tüm canlıların geleceği için hayati bir önem taşımaktadır.
+
+

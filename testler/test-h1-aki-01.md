@@ -1,4 +1,4 @@
-# Hukuki Anlaşmazlıklar ve Sözleşme Yükümlülüklerinin Yerine Getirilmesi Üzerine Bir İnceleme
+﻿# Hukuki Anlaşmazlıklar ve Sözleşme Yükümlülüklerinin Yerine Getirilmesi Üzerine Bir İnceleme
 
 ## Genel Değerlendirme ve Anlaşmazlığın Niteliği
 
@@ -34,3 +34,5 @@ Tahkim ve arabuluculuk mekanizmalarının sağladığı avantajlar şunlardır:
 Yukarıda anlatılan hukuki çerçeveye göre, sözleşme yükümlülüklerinden doğan veya idari işlemlerle karmaşıklaşan anlaşmazlıkları çözmek için olayın tüm yönleri eksiksiz değerlendirilmelidir. İlgili yasalar ve mahkeme kararları dikkatle incelenmelidir. Olası hukuki riskler önceden görülmeli ve stratejik adımlar atılmalıdır. Bu çok önemlidir.
 
 Taraflara tavsiye edilir: Gelecekte benzer anlaşmazlıkları önlemek veya mevcutları iyi yönetmek için sözleşme görüşmelerinde detaylı kurallar belirlesinler. Bu kurallar yükümlülüklerin yapısını, yerine getirme şartlarını ve mücbir sebep sonuçlarını açıkça içermelidir. Anlaşmazlık çözüm yollarını seçerken alternatif yöntemleri de düşünsünler.
+
+

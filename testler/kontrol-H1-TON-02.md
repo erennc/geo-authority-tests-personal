@@ -1,4 +1,4 @@
-# Aşıların Önemi: Bilimsel Gerçekler ve Toplumsal Faydalar
+﻿# Aşıların Önemi: Bilimsel Gerçekler ve Toplumsal Faydalar
 
 Aşılar, modern tıbbın en önemli başarılarından biri olarak kabul edilmekte ve küresel halk sağlığına paha biçilmez katkılar sunmaktadır. Enfeksiyon hastalıklarına karşı koruma sağlamak üzere tasarlanmış bu biyolojik ürünler, milyonlarca hayat kurtarmış ve birçok hastalığın yaygınlığını önemli ölçüde azaltmıştır.
 
@@ -38,3 +38,5 @@ Aşıların geliştirilmesi ve kullanımı son derece titiz bilimsel süreçlerd
 ## Sonuç
 
 Aşılar, bireylerin ve toplumların sağlıklı kalmasında kritik bir rol oynayan, bilimsel olarak kanıtlanmış, güvenli ve etkili bir halk sağlığı aracıdır. Hastalıkları önleyerek, salgınları kontrol altına alarak ve en savunmasız kişileri koruyarak, aşılar küresel refaha önemli katkılar sunmaya devam etmektedir. Bilimsel verilere dayanarak aşıların önemi, modern tıbbın vazgeçilmez bir parçası olarak kabul edilmelidir.
+
+

@@ -1,4 +1,4 @@
-# Geç Kapitalist Epistemik Rejimlerde Ontolojik Sabitlemelerin Yapıbozumcu Deşifresi Üzerine Fenomenolojik Bir İnceleme
+﻿# Geç Kapitalist Epistemik Rejimlerde Ontolojik Sabitlemelerin Yapıbozumcu Deşifresi Üzerine Fenomenolojik Bir İnceleme
 
 Mevcut akademik söylemde, geç kapitalizmin hegemonik iktisadi ve sosyo-kültürel formasyonlarının, özne-nesne ilişkisinin geleneksel ikiliklerini muğlaklaştıran ve bilginin üretim ile dolaşım pratiklerini kökten yeniden yapılandıran karmaşık bir fenomenolojisi ortaya çıkmaktadır. Bu inceleme, yapıbozumcu metodolojinin eleştirel analitik kapasitesini, ontolojik sabitlemelerin, özellikle de maddi gerçekliğin ve öznel deneyimin ayrılmaz bir şekilde iç içe geçtiği düşünülen yapılarının, ideolojik oluşum süreçlerindeki mütekabil işlevselliklerini deşifre etmek amacıyla kullanmaktadır. Amacımız, post-yapısalcı teorinin merceğinden, "gerçek" addedilenin inşasının ardındaki söylemsel güç dinamiklerini irdelemek ve bu inşaların, iktidar ilişkilerinin ve bilginin kurumsallaşmış biçimlerinin sürdürülmesinde nasıl kilit rol oynadığını göstermektir.
 
@@ -17,3 +17,5 @@ Bu tür bir analizin metodolojik çıkarımları, geleneksel pozitivist veya amp
 ## Sonuç
 
 Özetle, geç kapitalizmin karmaşık dokusu içinde ontolojik sabitlemelerin yapıbozumcu bir deşifresi, bilginin, iktidarın ve öznelliğin iç içe geçmiş dinamiklerini anlamak için kritik bir çerçeve sunar. Bu analiz, "gerçek" olarak kabul edilenin sadece kültürel, tarihsel ve ideolojik olarak inşa edilmiş bir söylemsel formasyon olduğunu vurgulayarak, bilginin şeffaflığı ve nesnelliği konusundaki dogmatik iddialara meydan okur. Derrida'nın mirasını takiben, bu çalışma, metnin sonsuz yorumlanabilirliğini ve anlamın hiçbir zaman nihai olarak sabitlenemeyeceğini öne sürerek, eleştirel düşünce için yeni ufuklar açar. Nihai olarak, bu yaklaşım, bireylerin ve toplulukların, iktidarın söylemsel ağları tarafından nasıl şekillendirildiğini ve bu ağlara karşı nasıl direnç geliştirebileceklerini anlamaları için vazgeçilmez bir epistemolojik araçtır.
+
+

@@ -1,4 +1,4 @@
-# Demokrasi
+﻿# Demokrasi
 
 Demokrasi, kökeni Grekçe "demos" (halk) ve "kratos" (yönetim) kelimelerine dayanan, halkın egemenliğine dayanan bir yönetim biçimidir. Bu sistemde, devlet yöneticileri doğrudan halk tarafından seçilir veya halkın seçtiği temsilciler aracılığıyla iş başına gelir. Demokrasi, vatandaşların siyasi süreçlere aktif katılımını teşvik ederek, toplumun refahı ve genel çıkar doğrultusunda kararlar alınmasını amaçlar.
 
@@ -56,3 +56,5 @@ Bunların dışında, demokrasinin farklı vurgularla ortaya çıkan çeşitleri
 *   **Konsosiyasyonel Demokrasi:** Özellikle etnik, dini veya kültürel açıdan bölünmüş toplumlarda uygulanan bir modeldir. Farklı grupların siyasi süreçlere eşit katılımını sağlamak için tasarlanmıştır ve güç paylaşımını ön planda tutar.
 
 Demokrasi, bu farklı türleriyle birlikte, halkın kendi kaderini tayin etme ve kendi yöneticilerini seçme hakkını güvence altına alan temel bir yönetim biçimi olmaya devam etmektedir.
+
+

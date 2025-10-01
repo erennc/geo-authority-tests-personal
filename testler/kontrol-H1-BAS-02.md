@@ -1,4 +1,4 @@
-# Word'de Tablo Ekleme Kılavuzu
+﻿# Word'de Tablo Ekleme Kılavuzu
 
 Bu kılavuz, Microsoft Word belgenize nasıl tablo ekleyeceğinizi adım adım anlatır.
 
@@ -42,3 +42,5 @@ Açılan "Tablo" menüsünde birkaç farklı tablo ekleme yöntemi bulacaksını
 ## 5. Tablonuzu Düzenleme
 
 Tablo eklendikten sonra, metin girmek, satır/sütun eklemek veya silmek, hücreleri birleştirmek veya bölmek gibi işlemlerle tablonuzu düzenleyebilirsiniz. Word, tablo üzerinde tıkladığınızda "Tablo Tasarımı" ve "Düzen" adlı iki yeni sekme gösterecektir.
+
+

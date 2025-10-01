@@ -1,4 +1,4 @@
-# Akne Tedavisinde Kapsamlı Yaklaşım
+﻿# Akne Tedavisinde Kapsamlı Yaklaşım
 
 ## Akneye Genel Bakış ve İlk Basamak Yaklaşımlar
 
@@ -21,3 +21,5 @@ Medikal tedavilerin yanı sıra, dermatolog ofisinde uygulanan bazı prosedürle
 ## Cilt Bakımı, Yaşam Tarzı ve Uzun Dönem Yönetim
 
 Akne tedavisi tek seferlik bir çözümden ziyade sürekli bir süreçtir. Cilt bakımı alışkanlıkları, tedavinin başarısında önemli bir rol oynar. Cildin düzenli olarak nazik bir temizleyici ile yıkanması, yağsız ve komedojenik olmayan ürünler kullanılması, makyajın gece yatmadan önce mutlaka çıkarılması ve sivilcelerin sıkılmaması, tedavi sürecini destekleyen temel adımlardır. Tedavinin sonuçlarını görmek genellikle haftalar, hatta aylar alabilir; bu nedenle sabırlı olmak ve doktorunuzun önerilerine titizlikle uymak kritik öneme sahiptir. Her bireyin cilt tipi ve akneye verdiği yanıt farklı olduğundan, kişiselleştirilmiş bir tedavi planı için mutlaka bir dermatoloji uzmanına danışılmalıdır.
+
+

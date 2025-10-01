@@ -1,4 +1,4 @@
-# Hukuki Uyuşmazlıkların Çözümü ve Sözleşmesel Yükümlülüklerin İfası Üzerine Kapsamlı Bir İnceleme
+﻿# Hukuki Uyuşmazlıkların Çözümü ve Sözleşmesel Yükümlülüklerin İfası Üzerine Kapsamlı Bir İnceleme
 
 ## Genel Değerlendirme ve Uyuşmazlığın Niteliği
 
@@ -34,3 +34,5 @@ Tahkim ve arabuluculuk mekanizmalarının sağladığı avantajlar aşağıdaki 
 Yukarıda detaylandırılan hukuki çerçeve doğrultusunda, sözleşmesel yükümlülüklerin ifasından doğan veya idari işlemlerle karmaşıklaşan uyuşmazlıkların çözümünde, olayın tüm boyutlarının bütüncül bir yaklaşımla değerlendirilmesi, ilgili mevzuatın ve yargı içtihatlarının güncel durumunun titizlikle incelenmesi ve muhtemel hukuki risklerin önceden öngörülerek stratejik adımların atılması büyük önem taşımaktadır.
 
 Taraflara, gelecekte benzer uyuşmazlıkların önüne geçmek veya mevcut ihtilafların etkin bir şekilde yönetilmesini sağlamak amacıyla, sözleşme müzakereleri aşamasında edimlerin niteliğini, ifa koşullarını ve olası mücbir sebep hallerinin sonuçlarını açıkça düzenleyen kapsamlı hükümler tesis etmeleri ve uyuşmazlık çözüm yöntemlerini belirlerken alternatif mekanizmaları da göz önünde bulundurmaları tavsiye edilmektedir.
+
+

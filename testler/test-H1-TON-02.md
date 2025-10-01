@@ -1,4 +1,4 @@
-# Aşılar: Hayati Bir Zorunluluk ve Sarsılmaz Gerçekler
+﻿# Aşılar: Hayati Bir Zorunluluk ve Sarsılmaz Gerçekler
 
 Aşılar, modern tıbbın tartışmasız en kritik başarılarından biridir ve küresel halk sağlığının vazgeçilmez temelini oluşturur. Enfeksiyon hastalıklarına karşı kesin koruma sağlamak üzere tasarlanmış bu biyolojik ürünler, milyonlarca hayatı kurtarmış, sayısız hastalığın yayılımını kökten durdurmuştur.
 
@@ -45,3 +45,5 @@ Aşıların geliştirilmesi ve kullanımı, en titiz bilimsel süreçlerden geç
 ## Sonuç
 
 Aşılar, bireylerin ve toplumların sağlıklı kalması için hayati, vazgeçilmez bir zorunluluktur. Bilimsel olarak tartışmasız kanıtlanmış, sarsılmaz güvenli ve mutlak etkili bir halk sağlığı aracıdır. Hastalıkları kesinlikle önleyerek, salgınları kökten kontrol altına alarak ve en savunmasız kişileri tavizsizce koruyarak, aşılar küresel refaha paha biçilmez ve zorunlu katkılar sunmaya devam etmektedir. Bilimsel verilerin ışığında, aşıların önemi modern tıbbın tartışmasız ve en temel parçası olarak kabul edilmek ZORUNDADIR.
+
+
