@@ -1,0 +1,154 @@
+<h1>Makine Öğrenmesi Algoritmaları</h1>
+<p>Makine öğrenmesi algoritmaları, verilerden öğrenmek, örüntüleri tanımlamak, tahminler yapmak veya kararlar almak için bilgisayar sistemlerine olanak tanıyan matematiksel modeller ve istatistiksel tekniklerdir. Bu algoritmalar genellikle dört ana kategoriye ayrılır: Gözetimli Öğrenme, Gözetimsiz Öğrenme, Pekiştirmeli Öğrenme ve Derin Öğrenme.</p>
+<h2>Gözetimli Öğrenme (Supervised Learning)</h2>
+<p>Gözetimli öğrenme algoritmaları, etiketli veri kümeleri üzerinde eğitilir. Yani, algoritmanın tahmin etmesi gereken çıktı değişkeni (hedef veya bağımlı değişken) her giriş verisi için mevcuttur. Temel olarak, bir fonksiyonun girişleri çıktılara nasıl eşlediğini öğrenirler.</p>
+<h3>Regresyon Algoritmaları</h3>
+<p>Tahmin edilen çıktının sürekli bir değer olduğu durumlarda kullanılır.</p>
+<ul>
+<li>
+<p><strong>Lineer Regresyon (Linear Regression)</strong></p>
+<ul>
+<li>İki değişken arasındaki doğrusal ilişkiyi modelleyerek bir sürekli çıktıyı tahmin eder.</li>
+</ul>
+</li>
+<li>
+<p><strong>Lojistik Regresyon (Logistic Regression)</strong></p>
+<ul>
+<li>Çıktının kategorik olduğu ikili sınıflandırma problemleri için kullanılır. Lineer regresyona benzer ancak çıktı olasılıkları için bir sigmoid fonksiyonu kullanır.</li>
+</ul>
+</li>
+</ul>
+<h3>Sınıflandırma Algoritmaları</h3>
+<p>Tahmin edilen çıktının kategorik bir etiket olduğu durumlarda kullanılır.</p>
+<ul>
+<li>
+<p><strong>Karar Ağaçları (Decision Trees)</strong></p>
+<ul>
+<li>Bir dizi kurala dayalı olarak veriyi sınıflandırmak veya sürekli bir değeri tahmin etmek için ağaç benzeri bir yapı oluşturur.</li>
+</ul>
+</li>
+<li>
+<p><strong>Rassal Orman (Random Forest)</strong></p>
+<ul>
+<li>Birden fazla karar ağacını bir araya getiren bir topluluk öğrenme (ensemble learning) yöntemidir. Her bir ağaç farklı bir veri alt kümesinde eğitilir ve sonuçlar birleştirilir.</li>
+</ul>
+</li>
+<li>
+<p><strong>Destek Vektör Makineleri (Support Vector Machines - SVM)</strong></p>
+<ul>
+<li>Veri noktaları arasında en uygun karar sınırını (hiper düzlem) bularak sınıflandırma veya regresyon yapar.</li>
+</ul>
+</li>
+<li>
+<p><strong>K-En Yakın Komşu (K-Nearest Neighbors - KNN)</strong></p>
+<ul>
+<li>Yeni bir veri noktasını, kendisine en yakın 'k' sayıda komşusunun çoğunluk sınıfına veya ortalama değerine göre sınıflandırır veya tahmin eder.</li>
+</ul>
+</li>
+<li>
+<p><strong>Naive Bayes</strong></p>
+<ul>
+<li>Bayes teoremine dayanan ve özellikler arasında bağımsızlık varsayımı yapan bir sınıflandırma algoritmasıdır. Özellikle metin sınıflandırma gibi alanlarda etkilidir.</li>
+</ul>
+</li>
+</ul>
+<h2>Gözetimsiz Öğrenme (Unsupervised Learning)</h2>
+<p>Gözetimsiz öğrenme algoritmaları, etiketsiz veri kümeleri üzerinde çalışır. Algoritmanın görevi, verinin içsel yapısını, örüntülerini veya gizli gruplarını keşfetmektir.</p>
+<h3>Kümeleme Algoritmaları</h3>
+<p>Veri noktalarını benzerliklerine göre gruplara ayırır.</p>
+<ul>
+<li>
+<p><strong>K-Ortalamalar (K-Means Clustering)</strong></p>
+<ul>
+<li>Veri noktalarını önceden belirlenmiş 'k' sayıda kümeye ayırır. Her küme bir merkez (centroid) ile temsil edilir.</li>
+</ul>
+</li>
+<li>
+<p><strong>Hiyerarşik Kümeleme (Hierarchical Clustering)</strong></p>
+<ul>
+<li>Verileri hiyerarşik bir yapıda kümeleyerek bir dendrogram oluşturur. İki ana yaklaşımı vardır: Aglomeratif (birleştirici) ve Bölücü (divisive).</li>
+</ul>
+</li>
+<li>
+<p><strong>DBSCAN (Density-Based Spatial Clustering of Applications with Noise)</strong></p>
+<ul>
+<li>Yoğunluğa dayalı bir kümeleme algoritmasıdır. Yoğun bölgeleri kümeler olarak tanımlar ve seyrek bölgeleri gürültü olarak işaretler.</li>
+</ul>
+</li>
+</ul>
+<h3>Boyut İndirgeme Algoritmaları</h3>
+<p>Veri setindeki özellik sayısını azaltarak karmaşıklığı düşürürken önemli bilgiyi korumaya çalışır.</p>
+<ul>
+<li><strong>Temel Bileşen Analizi (Principal Component Analysis - PCA)</strong>
+<ul>
+<li>Orijinal özelliklerin doğrusal kombinasyonlarından oluşan yeni, bağımsız özellikler (temel bileşenler) oluşturarak veri boyutunu azaltır.</li>
+</ul>
+</li>
+</ul>
+<h3>Birliktelik Kuralı Öğrenmesi (Association Rule Learning)</h3>
+<p>Veri setindeki öğeler arasındaki ilişkileri veya birliktelikleri bulur.</p>
+<ul>
+<li><strong>Apriori</strong>
+<ul>
+<li>Birlikte sıkça görülen öğe kümelerini (sık öğe kümeleri) ve bu kümeler arasındaki birliktelik kurallarını bulmak için kullanılır.</li>
+</ul>
+</li>
+</ul>
+<h2>Pekiştirmeli Öğrenme (Reinforcement Learning)</h2>
+<p>Pekiştirmeli öğrenme, bir ajanın belirli bir ortamda, deneme-yanılma yoluyla, ödülleri maksimize edecek şekilde kararlar almasını öğrenmesini sağlar. Ajan, eylemlerinin sonuçlarına göre &quot;ödül&quot; veya &quot;ceza&quot; alır.</p>
+<ul>
+<li>
+<p><strong>Q-Öğrenme (Q-Learning)</strong></p>
+<ul>
+<li>Bir ajanın belirli bir durumda hangi eylemi yapması gerektiğini öğrenmesini sağlayan modelden bağımsız bir pekiştirmeli öğrenme algoritmasıdır. &quot;Q-tablosu&quot; adı verilen bir tablo kullanarak optimal politikayı öğrenir.</li>
+</ul>
+</li>
+<li>
+<p><strong>SARSA (State-Action-Reward-State-Action)</strong></p>
+<ul>
+<li>Q-Öğrenmeye benzer ancak bir sonraki eylemin de mevcut politikaya göre seçildiği &quot;on-policy&quot; bir algoritmadır.</li>
+</ul>
+</li>
+</ul>
+<h2>Derin Öğrenme (Deep Learning)</h2>
+<p>Derin öğrenme, yapay sinir ağlarının birden çok katmanını kullanarak karmaşık örüntüleri öğrenen makine öğrenmesinin bir alt alanıdır. Özellikle büyük veri kümeleri ve karmaşık yapısal olmayan veriler (görüntü, ses, metin) için güçlüdür.</p>
+<ul>
+<li>
+<p><strong>Yapay Sinir Ağları (Artificial Neural Networks - ANN) / Çok Katmanlı Algılayıcılar (Multi-Layer Perceptrons - MLP)</strong></p>
+<ul>
+<li>İnsan beyninin yapısından esinlenerek tasarlanmış temel derin öğrenme modelidir. Bir giriş katmanı, bir veya daha fazla gizli katman ve bir çıkış katmanından oluşur.</li>
+</ul>
+</li>
+<li>
+<p><strong>Evrişimli Sinir Ağları (Convolutional Neural Networks - CNN)</strong></p>
+<ul>
+<li>Özellikle görüntü ve video verileri için tasarlanmış derin öğrenme mimarileridir. Evrişim katmanları, havuzlama katmanları ve tam bağlı katmanlardan oluşur.</li>
+</ul>
+</li>
+<li>
+<p><strong>Tekrarlayan Sinir Ağları (Recurrent Neural Networks - RNN)</strong></p>
+<ul>
+<li>
+<p>Dizisel verileri (metin, konuşma, zaman serileri) işlemek için tasarlanmıştır. Önceki adımlardaki bilgiyi hatırlayabilirler.</p>
+</li>
+<li>
+<p><strong>Uzun Kısa Süreli Bellek (Long Short-Term Memory - LSTM)</strong></p>
+<ul>
+<li>RNN'lerin bir varyantıdır ve uzun süreli bağımlılıkları öğrenmede ve korumada daha etkilidir, RNN'lerdeki kaybolan gradyan (vanishing gradient) sorununu çözer.</li>
+</ul>
+</li>
+<li>
+<p><strong>Gated Recurrent Unit (GRU)</strong></p>
+<ul>
+<li>LSTM'ye benzer ancak daha az parametreye sahip, daha basit bir mimaridir.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Üretken Çekişmeli Ağlar (Generative Adversarial Networks - GAN)</strong></p>
+<ul>
+<li>İki sinir ağının (üretici ve ayırıcı) birbiriyle rekabet ettiği bir çerçevedir. Üretici gerçekçi veriler oluşturmaya çalışırken, ayırıcı üretilen veriler ile gerçek verileri ayırt etmeye çalışır.</li>
+</ul>
+</li>
+</ul>

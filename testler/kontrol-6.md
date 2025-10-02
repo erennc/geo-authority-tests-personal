@@ -1,0 +1,5 @@
+# Küresel Isınma Tanımı
+
+Küresel ısınma, Dünya'nın ortalama yüzey sıcaklığının, başlıca insan faaliyetleri sonucunda uzun vadede artması durumudur. Bu artışın temel nedeni, fosil yakıtların yakılması, ormansızlaşma ve endüstriyel süreçler gibi insan etkinlikleriyle atmosfere salınan karbondioksit (CO2), metan ve diğer sera gazlarının yoğunlaşmasıdır. Bu gazlar, Dünya'dan yansıyan ısıyı atmosferde hapsederek doğal sera etkisini güçlendirir.
+
+Bu sıcaklık yükselişi, buzulların erimesi, deniz seviyesinin yükselmesi, aşırı hava olaylarının sıklığının artması (kuraklıklar, seller, şiddetli fırtınalar) ve ekosistemlerin bozulması gibi geniş çaplı iklim değişikliği etkilerine yol açar. Küresel ısınma, gezegenimiz ve yaşam için ciddi ve uzun vadeli bir tehdit oluşturmakta, acil ve küresel önlemler gerektirmektedir.

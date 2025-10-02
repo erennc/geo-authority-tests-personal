@@ -1,0 +1,67 @@
+# En İyi 4K Ultra HD Televizyon Modelleri
+
+En iyi 4K Ultra HD televizyonu seçerken, panel teknolojisi, görüntü işlemcisi, yenileme hızı ve akıllı TV özellikleri gibi birçok faktör genel izleme deneyiminizi büyük ölçüde etkiler. İşte piyasadaki öne çıkan, yüksek performanslı 4K TV modellerinden bazıları:
+
+## 1. OLED Modeller (Üstün Kontrast ve Siyah Seviyeleri)
+
+OLED teknolojisi, her pikselin kendi ışığını yayması sayesinde mükemmel siyah seviyeleri, sonsuz kontrast ve geniş görüş açıları sunar. Özellikle film tutkunları ve karanlık ortamlarda izleme yapanlar için idealdir.
+
+### LG OLED evo C3 / C4 Serisi
+
+*   **Özellikler:** LG'nin en popüler OLED serilerinden biridir. C3 modeli α9 Gen6 AI işlemciye sahipken, C4 daha yeni nesil işlemcilerle daha iyi parlaklık ve görüntü işleme performansı sunar. Evo panel teknolojisi ile önceki nesillere göre daha yüksek parlaklık sağlar. 120Hz yenileme hızı, HDMI 2.1 portları, G-Sync ve FreeSync desteği ile oyuncular için harikadır. webOS akıllı TV platformu kullanıcı dostudur.
+
+*   **Neden Öne Çıkıyor:** Mükemmel sinematik görüntü kalitesi, düşük giriş gecikmesi ve kapsamlı oyun özellikleri sayesinde hem film tutkunları hem de oyuncular için en iyi seçeneklerden biridir.
+
+### Samsung S95C / S95D QD-OLED Serisi
+
+*   **Özellikler:** Samsung'un QD-OLED (Kuantum Nokta OLED) teknolojisini kullanan amiral gemisi modelleridir. Bu teknoloji, OLED'in saf siyahlarını QLED'in canlı renkleri ve yüksek parlaklığıyla birleştirir. Çok yüksek parlaklık seviyelerine ulaşabilir. 144Hz'e kadar yenileme hızı (oyun modunda), HDMI 2.1 portları ve Tizen işletim sistemi bulunur.
+
+*   **Neden Öne Çıkıyor:** Muazzam renk doğruluğu, inanılmaz parlaklık ve derin siyahların birleşimiyle benzersiz bir izleme deneyimi sunar. Özellikle HDR içerikler için olağanüstüdür.
+
+### Sony BRAVIA XR A95L / A95M QD-OLED Serisi
+
+*   **Özellikler:** Sony'nin üst düzey QD-OLED TV'si, güçlü Cognitive Processor XR işlemcisi sayesinde benzersiz görüntü işleme ve yükseltme (upscaling) kalitesi sunar. Mükemmel renk doğruluğu ve hareket netliği ile bilinir. PlayStation 5 ile tam uyumlu özelliklere sahiptir. Google TV platformunu kullanır.
+
+*   **Neden Öne Çıkıyor:** Piyasadaki en doğal ve sinematik görüntüyü sunan TV'lerden biridir. Sony'nin görüntü işlemcisi, içeriği en iyi şekilde optimize ederek izleyiciye sunar.
+
+## 2. QLED ve Mini LED Modeller (Yüksek Parlaklık ve Canlı Renkler)
+
+Bu teknolojiler, geleneksel LED TV'lerin parlaklık avantajını korurken, QLED ile renk gamını genişletir ve Mini LED ile arka ışık kontrolünü iyileştirerek daha derin siyahlar ve daha iyi kontrast sunar. Özellikle parlak odalarda TV izleyenler için idealdir.
+
+### Samsung Neo QLED QN90C / QN90D Serisi
+
+*   **Özellikler:** Samsung'un Mini LED teknolojisine sahip amiral gemisi LCD TV'sidir. Binlerce küçük LED ile hassas arka ışık kontrolü sağlar, bu da OLED'e yakın siyah seviyeleri ve çok yüksek parlaklık sunar. Parlak odalarda kullanım için mükemmeldir. 120Hz (QN90D'de 144Hz) yenileme hızı, HDMI 2.1 portları, Tizen işletim sistemi.
+
+*   **Neden Öne Çıkıyor:** Oda parlaklığından bağımsız olarak çarpıcı HDR performansı ve canlı renkler sunar. Yanma riski olmaması nedeniyle uzun ömürlü bir LCD seçeneğidir.
+
+### TCL QM8 / QM8B (Avrupa'da C845 / C855) Serisi
+
+*   **Özellikler:** Mini LED teknolojisini uygun fiyatla sunan TCL, yüksek parlaklık ve etkileyici yerel karartma (local dimming) bölgeleri ile dikkat çeker. Özellikle bütçe dostu olmasına rağmen premium performansa yakın bir deneyim sunar. 120Hz yenileme hızı, HDMI 2.1 desteği ve Google TV işletim sistemi.
+
+*   **Neden Öne Çıkıyor:** Fiyat/performans oranı oldukça yüksektir. Bütçesi kısıtlı olan ancak Mini LED'in sunduğu yüksek parlaklık ve iyi kontrasta sahip olmak isteyenler için harika bir seçenektir.
+
+### Hisense U8 Serisi (U8N / U8K)
+
+*   **Özellikler:** Hisense'ın Mini LED teknolojisine sahip orta/üst segment TV'sidir. Çok yüksek parlaklık seviyeleri, iyi yerel karartma ve iyi bir renk performansı sunar. Genellikle rakiplerine göre daha rekabetçi bir fiyata sahiptir. 120Hz yenileme hızı, HDMI 2.1 desteği ve Google TV işletim sistemi.
+
+*   **Neden Öne Çıkıyor:** TCL gibi Hisense de, üst düzey özelliklere sahip Mini LED TV'leri daha uygun fiyatlara sunarak dikkat çeker. Parlak odalar için güçlü bir alternatif olabilir.
+
+## 3. Önemli Satın Alma Kriterleri
+
+En iyi 4K televizyonu seçerken göz önünde bulundurmanız gereken temel kriterler:
+
+*   **Panel Tipi:**
+    *   **OLED/QD-OLED:** Sonsuz kontrast, mükemmel siyahlar, geniş görüş açıları. Film izleyicileri ve karanlık ortamda oyun oynayanlar için ideal. Parlaklık dezavantajı yeni nesillerde büyük ölçüde giderildi. Yanma (burn-in) riski hala küçük de olsa mevcut.
+    *   **Mini LED/QLED:** Yüksek parlaklık, canlı renkler, iyi kontrast. Özellikle parlak odalarda TV izleyenler ve HDR içerik tüketicileri için harika. Yanma riski yok.
+
+*   **İşlemci:** Görüntü kalitesini, renk doğruluğunu, hareket işleme ve yükseltme (upscaling) performansını doğrudan etkiler. Sony'nin Cognitive Processor XR'ı veya LG'nin α (Alpha) işlemcileri gibi markaların kendi işlemcileri önemlidir.
+
+*   **Yenileme Hızı (Hz):** Akıcı hareketler ve oyun deneyimi için 120Hz veya üzeri paneller tercih edilmelidir. HDMI 2.1 portları, 4K@120Hz sinyal desteği için olmazsa olmazdır.
+
+*   **HDR Desteği:** Dolby Vision, HDR10+ ve HLG gibi formatlara destek, daha geniş renk gamı ve daha iyi kontrast sunar.
+
+*   **Bağlantı Noktaları:** En az 2 adet HDMI 2.1 portu, USB portları ve diğer bağlantı seçenekleri (Ethernet, Optik Ses Çıkışı) önemlidir.
+
+*   **Akıllı TV İşletim Sistemi:** Kullanım kolaylığı, uygulama desteği ve hız açısından önemlidir (webOS, Tizen, Google TV).
+
+Bu modeller ve kriterler doğrultusunda, bütçenize ve kullanım alışkanlıklarınıza en uygun 4K Ultra HD televizyonu seçebilirsiniz.

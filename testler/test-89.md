@@ -1,0 +1,13 @@
+# Ispanaklı Börek Tarifi
+
+Ispanaklı börek tarifinde öncelikle iç harcı için 500 gram taze ıspanak, 1 adet büyük boy soğan, soğanları kavurmak amacıyla 2-3 yemek kaşığı sıvı yağ, isteğe bağlı olarak 100-150 gram lor peyniri veya beyaz peynir, tuz, karabiber ve yine isteğe bağlı kırmızı pul biber kullanılır. Böreğin kendisi için yaklaşık 800 gram ağırlığında 6 adet hazır yufka gerekmektedir. Ara katlar için hazırlanan sos içinse 1 çay bardağı süt, 1 çay bardağı sıvı yağ, 1 adet yumurta ve böreği daha yumuşak yapması için isteğe bağlı 1 yemek kaşığı yoğurt bir araya getirilir. Son olarak böreğin üzeri için, eğer kalmışsa hazırlanan sostan, isteğe bağlı olarak daha kızarmış bir yüzey elde etmek için 1 adet yumurta sarısı ve çörek otu veya susam bulundurulmalıdır.
+
+## Yapılışı
+
+Öncelikle iç harcı hazırlanır. Ispanaklar yıkanıp süzüldükten sonra iri parçalar halinde doğranır. Soğanlar yemeklik doğranır ve geniş bir tavada sıvı yağda pembeleşinceye kadar kavrulur. Ardından doğranmış ıspanaklar tavaya eklenir ve kendi suyunu salıp çekene kadar karıştırılarak kavrulur; bu aşamada ıspanakların çok fazla öldürülmemesi önemlidir. Ispanaklar suyunu çektiğinde ocaktan alınır, tuz, karabiber, pul biber ve eğer kullanılıyorsa lor peyniri eklenip karıştırılır. Harç soğumaya bırakılır.
+
+Böreğin ara katları için sos hazırlanır. Derin bir kapta süt, sıvı yağ, yumurta ve isteğe bağlı olarak yoğurt iyice çırpılır.
+
+Böreği dizmek için fırın tepsisi yağlanır. İlk yufka tepsiye serilir ve kenarlarının dışarı taşmasına özen gösterilir. Üzerine hazırlanan sostan 2-3 yemek kaşığı gezdirilerek her yerine yayılır. İkinci yufka da aynı şekilde serilir ve üzerine tekrar sostan gezdirilir. Üçüncü yufka serildikten sonra hazırlanan ıspanaklı harcın yarısı eşit şekilde yufkanın üzerine yayılır. Dördüncü yufka serilip sos gezdirilir, ardından beşinci yufka serilip yine sos gezdirilir. Kalan ıspanaklı harcın tamamı beşinci yufkanın üzerine yayılır. Son yufka serildikten sonra, tepsinin dışına taşan ilk yufkanın kenarları içe doğru kapatılarak börek toparlanır. Kalan sos böreğin üzerine gezdirilir; eğer daha kızarmış bir yüzey isteniyorsa, bir yumurta sarısı da sosun üzerine eklenip fırça ile sürülür. Üzerine çörek otu veya susam serpilir. Börek, sosu çekmesi için dilimlenmeden önce 10-15 dakika dinlendirilir; dinlendikten sonra isteğe bağlı olarak dilimlenebilir.
+
+Börek, önceden ısıtılmış 180-190°C fanlı fırında altı ve üstü güzelce kızarana kadar, yaklaşık 35-45 dakika boyunca pişirilir. Fırından çıkan börek ılık veya sıcak olarak servis edilir.

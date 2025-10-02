@@ -1,0 +1,27 @@
+# Farklı Gerçeklikler Nasıl Ortaya Çıkıyor? (Modern Felsefe Açısından)
+
+Günümüz felsefesinde, farklı farklı gerçekliklerin olabileceği fikrini (ontolojik çoğulculuk) açıklamak zor bir iş. Çünkü bu fikir, varlığı eskiden beri anladığımız bilgi temelini (epistemoloji) yeniden düşünmemizi gerektiriyor. Bu yazı, özellikle Kant sonrası felsefeye odaklanarak, nasıl bilgi edindiğimizle farklı varlık biçimlerinin birbirini nasıl etkilediğini inceleyecek. Asıl göstermek istediğimiz şey: Bilgi edinme süreçlerimiz, gerçekliği sadece yansıtmakla kalmıyor, aynı zamanda farklı farklı gerçeklikleri de oluşturuyor.
+
+## Farklı Gerçeklikler Varken Bilgiyi Nasıl Anlamalıyız?
+
+Eskiden insanlar, bilginin, zihnimizden bağımsız, kesin gerçeklere dayandığını düşünürdü. Bu eski bilgi anlayışları, artık yeterli değil. Çünkü bilginin ne kadar farklı şekillerde edinildiğini ve her zaman bir duruma bağlı olduğunu açıklayamıyorlar. Bu durum, onların tek ve herkes için geçerli bir bakış açısı varsaymasından kaynaklanıyor. Oysa bizler farklı koşullarda yaşıyoruz ve her araştırma bir bakış açısına göre yapılır. Bu yüzden eski anlayışlar, farklı gerçekliklerin olabileceği fikrine (ontolojik çoğulculuk) ters düşen tek tip bir bilgi anlayışına yol açıyor.
+
+Üstelik, "temelci olmayan" yeni bilgi yaklaşımları da ortaya çıktı. Bunlar, bilgiyi farklı insanların birbirini onaylamasına bağlayan tutarlılıkçı yaklaşımlardan, birden çok geçerli ama birbirine benzemeyen yorumlama yolunu kabul eden 'bakış açılı gerçekçilik'e kadar uzanır. Bu yeni yaklaşımlar, tek ve ayrıcalıklı bir bilgi yetkisinin olduğu fikrini oldukça sarstı. Bu alternatif düşünceler, bilenin (yani biz insanların) ile bilinenin (yani gerçekliğin) birbirinden ayrılamaz olduğunu kabul ediyor. Böylece, her birinin kendi içinde tutarlı ve işe yarar olan farklı düşünce biçimlerinin, farklı varlık alanlarını nasıl belirleyebileceğine dair daha detaylı bir anlayışın temelini atmış oluyorlar.
+
+## Farklı Gerçeklikler: Felsefe İçin Bir Zorunluluk
+
+Farklı gerçeklikler olduğu fikri (ontolojik çoğulculuk), sadece tek bir gerçekliği farklı kelimelerle veya kavramlarla anlatmak demek değil. Bu fikir, gerçekten de birden fazla varoluş biçimi olduğunu savunuyor. Bu biçimleri, ortak bir temele veya tek bir kökene indirgeyemeyiz. Bu iddia, geleneksel felsefeden çok farklı. Geleneksel felsefe, yaşadığımız dünyadaki tüm farklılıklara rağmen, her şeyi tek bir varlık kategorisi veya prensibi altında toplamaya çalışırdı.
+
+Bu değişimin arkasındaki düşünsel gücü, hem analitik hem de kıta felsefesindeki farklı yaklaşımlarda bulabiliriz. Mesela, Quine'ın dil ile dünyanın kuruluşu arasındaki yakın bağı vurgulayan 'ontolojik görelilik' ve 'çevirinin belirsizliği' gibi önemli görüşleri var. Putnam'ın 'iç gerçekçilik' fikri ise, 'nesnelerin' bile bir anlamda bizim kullandığımız kavramsal yapıya göre 'oluşturulduğunu' söylüyor. Sonuç olarak, 'bir nesne' veya 'bir özellik' nedir sorusu bile sabit değil, çok esnektir. Bu, hangi teori ya da yaşam biçimi içinde konuşulduğumuza göre değişir. Yani, bize önceden verilmiş, tek bir anlamı olan bir evren olduğu varsayımına itiraz ediyorlar.
+
+## Nasıl Bildiğimiz ve Varlığın Oluşumu Arasındaki İlişki
+
+Farklı gerçeklikleri kabul eden bir sistemde, bilginin nasıl edinildiği ile varlığın kendisinin nerede birleştiği çok önemli. Bu noktada, bilgiye ulaşma yollarımız sadece bir şeyleri gözlemlemekle kalmıyor, aynı zamanda araştırdığımız varlık alanlarını temelden oluşturmaya başlıyor. Yani, düşünce yapılarımızın özellikleri, beynimizin doğal önyargıları ve araştırmalarımızı etkileyen tarihsel ve toplumsal ortamlar, öyle dışarıdan kontrol edilecek şeyler değil. Bunlar, farklı varlık katmanlarını belirlemede ve ayırmada aktif rol oynayan ayrılmaz parçalar.
+
+*   **Kavramsal Yapılar Varlığı Şekillendirir:** Farklı düşünce sistemleri, kendilerine özgü kategori ve çıkarım kurallarıyla, tek bir gerçekliğe sadece farklı bakış açıları sunmaz. Daha ziyade, farklı türde varlıkları, özellikleri ve ilişkileri *ortaya çıkarır* ve *belirler*. Her bir sistemin kendi içinde tutarlılığı ve geçerliliği vardır.
+
+*   **Varlığın Uygulamadan Doğuşu:** Belirli bir düşünce sisteminin, kendi alanında (bilim, etik veya sanat gibi) başarılı etkileşim sağlamadaki kullanışlılığı ve işe yararlığı, o sistemin varlıksal geçerliliği için çok önemli bir ölçüttür. Bu da 'varlığın' baştan beri sabit bir şey olmadığını, aksine teorik fikirler ile pratik uygulamanın sürekli etkileşimiyle ortaya çıktığını gösterir.
+
+### Her Şeyi Teke İndirgemeyen Bir Yaklaşım
+
+Sonuç olarak, Kant sonrası felsefede farklı gerçekliklerin olabileceği fikrini iyi anlatmak için, nasıl bilgi edindiğimizle, varlığın nasıl oluştuğu arasındaki ilişkiyi çok iyi ve basitleştirmeden anlamalıyız. Bu fikir, bizim bilgi anlayışlarımızın, önceden var olan tek bir gerçekliğe açılan şeffaf pencereler olmadığını savunuyor. Aksine, bunlar, birçok farklı, belki birbiriyle tam olarak kıyaslanamayan ama hepsi eşit derecede geçerli olan varoluş biçimlerinin ortaya çıkmasında ve şekillenmesinde aktif rol oynuyorlar. Bu yüzden, en büyük zorluk, bu çoklu gerçeklik dünyasında hem her şeyin göreceli olduğu kafa karışıklığına düşmeden hem de katı, dogmatik kurallara saplanmadan yol gösterecek bir 'bilginin bilgisi' geliştirmek. Böylece, varoluşun ne kadar çok yönlü olduğunu daha zengin ve derinlemesine anlayabiliriz.

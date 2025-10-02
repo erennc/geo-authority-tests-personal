@@ -1,0 +1,299 @@
+<h1>Javascript ES6 (ECMAScript 2015) ile Gelen Yenilikler</h1>
+<p>ECMAScript 2015, yaygın olarak ES6 olarak bilinen, JavaScript'e önemli ve büyük yenilikler getiren bir sürümdür. Bu yenilikler, dilin daha modern, okunabilir ve yönetilebilir olmasını sağlamıştır.</p>
+<h2>1. <code>let</code> ve <code>const</code> Anahtar Kelimeleri (Blok Kapsamı)</h2>
+<p>ES6 öncesinde sadece <code>var</code> anahtar kelimesi vardı ve fonksiyon kapsamına sahipti. <code>let</code> ve <code>const</code> ile blok kapsamı (block scope) tanıtıldı.</p>
+<ul>
+<li>
+<p><strong><code>let</code></strong>: Değişken tanımlamak için kullanılır. <code>var</code>'dan farklı olarak, tanımlandığı <code>{}</code> bloğu içerisinde geçerlidir. Yeniden atanabilir ancak aynı kapsamda yeniden tanımlanamaz.</p>
+<pre><code class="language-javascript">function ornekLet() {
+  let x = 10;
+  if (true) {
+    let x = 20; // Farklı bir x, blok kapsamlı
+    console.log(x); // 20
+  }
+  console.log(x); // 10
+}
+ornekLet();
+</code></pre>
+</li>
+<li>
+<p><strong><code>const</code></strong>: Sabit değerler tanımlamak için kullanılır. <code>let</code> gibi blok kapsamlıdır. Tanımlandığı anda değeri atanmalı ve sonradan değiştirilemez. Nesneler ve diziler için referansı sabittir, içindeki elemanlar değiştirilebilir.</p>
+<pre><code class="language-javascript">const PI = 3.14;
+// PI = 3.14159; // Hata: Assignment to constant variable.
+
+const KISILER = { ad: &quot;Ali&quot; };
+KISILER.ad = &quot;Veli&quot;; // Geçerli, objenin içeriği değişebilir
+console.log(KISILER.ad); // Veli
+</code></pre>
+</li>
+</ul>
+<h2>2. Arrow Functions (Ok Fonksiyonları)</h2>
+<p>Daha kısa ve okunabilir fonksiyon sözdizimi sunar. En önemli farklarından biri <code>this</code> bağlamını (context) miras almasıdır.</p>
+<pre><code class="language-javascript">// Geleneksel fonksiyon
+function topla(a, b) {
+  return a + b;
+}
+
+// Arrow function
+const toplaOk = (a, b) =&gt; a + b;
+console.log(toplaOk(5, 3)); // 8
+
+// Tek parametre ve tek satırlık gövde
+const kareAl = sayi =&gt; sayi * sayi;
+console.log(kareAl(4)); // 16
+
+// this bağlamı örneği
+class Kisi {
+  constructor(ad) {
+    this.ad = ad;
+  }
+
+  selamVerGeleneksel() {
+    setTimeout(function() {
+      // console.log(&quot;Merhaba &quot; + this.ad); // this burada undefined (veya window global objesi)
+    }, 100);
+  }
+
+  selamVerOk() {
+    setTimeout(() =&gt; {
+      console.log(&quot;Merhaba &quot; + this.ad); // this, Kisi sınıfına bağlı
+    }, 100);
+  }
+}
+
+const ali = new Kisi(&quot;Ali&quot;);
+ali.selamVerOk(); // Çıktı: Merhaba Ali (biraz gecikmeli)
+</code></pre>
+<h2>3. Template Literals (Şablon Dizeleri)</h2>
+<p>Dizeleri daha esnek bir şekilde tanımlamak için backtick (<code>`</code>) karakteri kullanılır. Dize içinde değişkenleri <code>$ { }</code> sözdizimi ile kolayca kullanmaya ve çok satırlı dizeler oluşturmaya olanak tanır.</p>
+<pre><code class="language-javascript">const ad = &quot;Ayşe&quot;;
+const soyad = &quot;Yılmaz&quot;;
+const yas = 30;
+
+// Geleneksel yöntem
+const mesajGeleneksel = &quot;Merhaba, benim adım &quot; + ad + &quot; &quot; + soyad + &quot; ve &quot; + yas + &quot; yaşındayım.&quot;;
+console.log(mesajGeleneksel);
+
+// Template Literals ile
+const mesajEs6 = `Merhaba, benim adım ${ad} ${soyad} ve ${yas} yaşındayım.`;
+console.log(mesajEs6);
+
+// Çok satırlı dize
+const cokSatirli = `Bu bir
+çok satırlı
+dizedir.`;
+console.log(cokSatirli);
+</code></pre>
+<h2>4. Destructuring Assignment (Yıkıcı Atama)</h2>
+<p>Dizilerden veya nesnelerden değerleri daha kısa bir sözdizimiyle çıkarmaya olanak tanır.</p>
+<ul>
+<li>
+<p><strong>Nesne Yıkıcı Atama</strong></p>
+<pre><code class="language-javascript">const kullanici = {
+  isim: &quot;Can&quot;,
+  yas: 25,
+  sehir: &quot;Ankara&quot;
+};
+
+// Geleneksel yöntem
+// const isim = kullanici.isim;
+// const yas = kullanici.yas;
+
+// Yıkıcı Atama ile
+const { isim, yas } = kullanici;
+console.log(isim); // Can
+console.log(yas); // 25
+
+// Farklı isimle atama
+const { sehir: yasadigiYer } = kullanici;
+console.log(yasadigiYer); // Ankara
+</code></pre>
+</li>
+<li>
+<p><strong>Dizi Yıkıcı Atama</strong></p>
+<pre><code class="language-javascript">const renkler = [&quot;kırmızı&quot;, &quot;yeşil&quot;, &quot;mavi&quot;];
+
+// Geleneksel yöntem
+// const birinciRenk = renkler[0];
+// const ikinciRenk = renkler[1];
+
+// Yıkıcı Atama ile
+const [birinciRenk, ikinciRenk, ucuncuRenk] = renkler;
+console.log(birinciRenk); // kırmızı
+console.log(ikinciRenk); // yeşil
+
+// Kalan elemanları toplama (Rest elemanı ile)
+const [ilk, ...kalanlar] = renkler;
+console.log(ilk); // kırmızı
+console.log(kalanlar); // [&quot;yeşil&quot;, &quot;mavi&quot;]
+</code></pre>
+</li>
+</ul>
+<h2>5. Default Parameters (Varsayılan Parametreler)</h2>
+<p>Fonksiyon parametrelerine, çağrıldığında bir değer belirtilmediğinde kullanılacak varsayılan değerler atamaya olanak tanır.</p>
+<pre><code class="language-javascript">// ES6 öncesi
+function selamlaEski(isim) {
+  isim = isim === undefined ? &quot;Misafir&quot; : isim;
+  console.log(`Merhaba ${isim}!`);
+}
+selamlaEski(); // Merhaba Misafir!
+selamlaEski(&quot;Deniz&quot;); // Merhaba Deniz!
+
+// ES6 ile varsayılan parametreler
+function selamla(isim = &quot;Misafir&quot;) {
+  console.log(`Merhaba ${isim}!`);
+}
+selamla(); // Merhaba Misafir!
+selamla(&quot;Deniz&quot;); // Merhaba Deniz!
+</code></pre>
+<h2>6. Rest Parametreleri ve Spread Operatörü (<code>...</code>)</h2>
+<ul>
+<li>
+<p><strong>Rest Parametreleri (<code>...</code>)</strong>: Bir fonksiyona geçirilen kalan argümanları bir dizi olarak toplar. Yıkıcı atamada da kullanılabilir (yukarıdaki dizi örneği).</p>
+<pre><code class="language-javascript">function toplaTumSayilari(...sayilar) {
+  return sayilar.reduce((toplam, sayi) =&gt; toplam + sayi, 0);
+}
+console.log(toplaTumSayilari(1, 2, 3)); // 6
+console.log(toplaTumSayilari(10, 20, 30, 40)); // 100
+</code></pre>
+</li>
+<li>
+<p><strong>Spread Operatörü (<code>...</code>)</strong>: Bir dizinin veya yinelenebilir (iterable) bir nesnenin elemanlarını ayrı ayrı &quot;yaymak&quot; için kullanılır.</p>
+<pre><code class="language-javascript">const dizi1 = [1, 2, 3];
+const dizi2 = [4, 5, 6];
+
+// Dizileri birleştirme
+const birlesikDizi = [...dizi1, ...dizi2, 7, 8];
+console.log(birlesikDizi); // [1, 2, 3, 4, 5, 6, 7, 8]
+
+// Nesneleri birleştirme
+const obj1 = { ad: &quot;Zeynep&quot;, yas: 28 };
+const obj2 = { sehir: &quot;İzmir&quot;, meslek: &quot;Mühendis&quot; };
+const birlesikObje = { ...obj1, ...obj2, eposta: &quot;zeynep@example.com&quot; };
+console.log(birlesikObje);
+// { ad: 'Zeynep', yas: 28, sehir: 'İzmir', meslek: 'Mühendis', eposta: 'zeynep@example.com' }
+
+// Fonksiyona dizi elemanlarını ayrı argümanlar olarak geçirme
+const sayilar = [10, 20, 30];
+console.log(Math.max(...sayilar)); // 30
+</code></pre>
+</li>
+</ul>
+<h2>7. Classes (Sınıflar)</h2>
+<p>JavaScript'te kalıtım ve nesne tabanlı programlamayı daha okunabilir ve anlaşılır hale getirmek için sözdizimsel şeker (syntactic sugar) olarak sınıflar tanıtıldı. Aslında prototype tabanlı kalıtımın üzerine inşa edilmiştir.</p>
+<pre><code class="language-javascript">class Kisi {
+  constructor(ad, soyad) {
+    this.ad = ad;
+    this.soyad = soyad;
+  }
+
+  tamAdGetir() {
+    return `${this.ad} ${this.soyad}`;
+  }
+}
+
+class Ogrenci extends Kisi {
+  constructor(ad, soyad, ogrenciNo) {
+    super(ad, soyad); // Üst sınıfın constructor'ını çağırır
+    this.ogrenciNo = ogrenciNo;
+  }
+
+  bilgiGetir() {
+    return `${this.tamAdGetir()} (${this.ogrenciNo})`;
+  }
+}
+
+const ogrenci1 = new Ogrenci(&quot;Mert&quot;, &quot;Demir&quot;, &quot;12345&quot;);
+console.log(ogrenci1.tamAdGetir()); // Mert Demir
+console.log(ogrenci1.bilgiGetir()); // Mert Demir (12345)
+</code></pre>
+<h2>8. Modules (Modüller)</h2>
+<p>JavaScript kodunu ayrı dosyalarda düzenlemeyi ve bu dosyaları kolayca birbirine bağlamayı sağlayan standart bir modül sistemi getirildi (<code>import</code> ve <code>export</code>). Bu, kodu daha düzenli, bakımı kolay ve yeniden kullanılabilir hale getirir.</p>
+<ul>
+<li>
+<p><strong><code>export</code> (bir dosyada <code>matematik.js</code> adında)</strong></p>
+<pre><code class="language-javascript">// matematik.js
+export const PI = 3.14159;
+
+export function topla(a, b) {
+  return a + b;
+}
+
+// Varsayılan dışa aktarma
+export default function carp(a, b) {
+  return a * b;
+}
+</code></pre>
+</li>
+<li>
+<p><strong><code>import</code> (başka bir dosyada <code>app.js</code> adında)</strong></p>
+<pre><code class="language-javascript">// app.js
+import { PI, topla } from './matematik.js';
+import carpVarsayilan from './matematik.js'; // Varsayılan dışa aktarmayı istediğiniz isimle alabilirsiniz
+
+console.log(PI); // 3.14159
+console.log(topla(5, 2)); // 7
+console.log(carpVarsayilan(5, 2)); // 10
+</code></pre>
+</li>
+</ul>
+<h2>9. Promises (Sözler)</h2>
+<p>Asenkron işlemleri daha kolay yönetmek için tanıtılan bir yapıdır. Özellikle callback hell (geri çağırma cehennemi) olarak bilinen karmaşık iç içe geçmiş asenkron fonksiyon yapılarının önüne geçer. Bir Promise, asenkron bir işlemin nihai başarı (resolved) veya başarısızlık (rejected) durumunu temsil eder.</p>
+<pre><code class="language-javascript">const veriyiGetir = new Promise((resolve, reject) =&gt; {
+  // Asenkron bir işlem simüle edelim
+  setTimeout(() =&gt; {
+    const basarili = true;
+    if (basarili) {
+      resolve(&quot;Veri başarıyla çekildi!&quot;);
+    } else {
+      reject(&quot;Veri çekme hatası oluştu.&quot;);
+    }
+  }, 2000); // 2 saniye sonra
+});
+
+veriyiGetir
+  .then(mesaj =&gt; {
+    console.log(mesaj); // Veri başarıyla çekildi! (2 sn sonra)
+  })
+  .catch(hata =&gt; {
+    console.error(hata);
+  });
+</code></pre>
+<h2>10. Iterators ve Generators</h2>
+<ul>
+<li>
+<p><strong>Iterators (Yineleyiciler)</strong>: Bir nesnenin elemanları üzerinde adım adım gezinti yapmayı sağlayan bir arayüzdür. <code>for...of</code> döngüsü gibi yapılar iteratörleri kullanır.</p>
+</li>
+<li>
+<p><strong>Generators (Üreteçler)</strong>: <code>function*</code> sözdizimi ile tanımlanan özel fonksiyonlardır. <code>yield</code> anahtar kelimesini kullanarak fonksiyonun yürütülmesini duraklatıp daha sonra devam ettirebilirler. Bu sayede sonsuz diziler veya büyük veri kümeleri üzerinde bellek dostu şekilde çalışmak mümkün olur.</p>
+<pre><code class="language-javascript">function* sayac(limit) {
+  for (let i = 0; i &lt;= limit; i++) {
+    yield i;
+  }
+}
+
+const uretici = sayac(3);
+console.log(uretici.next().value); // 0
+console.log(uretici.next().value); // 1
+console.log(uretici.next().value); // 2
+console.log(uretici.next().value); // 3
+console.log(uretici.next().done);  // true
+</code></pre>
+</li>
+</ul>
+<h2>11. Yeni Koleksiyonlar (Set, Map, WeakSet, WeakMap)</h2>
+<ul>
+<li><strong><code>Set</code></strong>: Benzersiz değerlerin bir listesini tutar. Tekrar eden değerleri otomatik olarak eler.</li>
+<li><strong><code>Map</code></strong>: Anahtar-değer çiftlerini saklar, ancak anahtar olarak herhangi bir veri tipini (nesneler dahil) kullanmaya olanak tanır.</li>
+<li><strong><code>WeakSet</code> ve <code>WeakMap</code></strong>: <code>Set</code> ve <code>Map</code>'in &quot;zayıf&quot; versiyonlarıdır. Anahtarlar veya değerler bir başka referansa sahip olmadığında otomatik olarak çöp toplayıcı tarafından temizlenebilir. Bu, bellek yönetiminde faydalıdır.</li>
+</ul>
+<pre><code class="language-javascript">// Set örneği
+const setim = new Set([1, 2, 2, 3]);
+console.log(setim); // Set(3) {1, 2, 3}
+
+// Map örneği
+const mapim = new Map();
+mapim.set('ad', 'Müge');
+mapim.set(1, 'sayı');
+console.log(mapim.get('ad')); // Müge
+</code></pre>

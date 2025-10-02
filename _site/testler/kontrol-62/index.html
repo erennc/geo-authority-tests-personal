@@ -1,0 +1,63 @@
+<h1>Blockchain Teknolojisi Nedir ve Nasıl Çalışır?</h1>
+<p>Blockchain, kelime anlamıyla &quot;blok zinciri&quot; demektir. Dijital bilgilerin (işlemlerin) &quot;bloklar&quot; halinde gruplandırıldığı ve kriptografi kullanılarak birbirine &quot;zincirlendiği&quot; merkeziyetsiz, dağıtık bir defter teknolojisidir. Temel amacı, merkezi bir otoriteye ihtiyaç duymadan güvenli ve şeffaf bir şekilde veri kaydı tutmaktır.</p>
+<h2>Blockchain Nedir?</h2>
+<p>Blockchain, katılımcılar arasında paylaşılan, değişmez bir dijital kayıt defteridir. Her işlem, şifrelenmiş bir &quot;blok&quot; içinde kaydedilir. Bu bloklar, bir önceki bloğun kriptografik özetini (hash) içerecek şekilde kronolojik olarak birbirine bağlanır ve böylece bir &quot;zincir&quot; oluştururlar. Bu yapı, geçmişteki bir işlemin değiştirilmesini neredeyse imkansız hale getirir, çünkü herhangi bir değişiklik, sonraki tüm blokların hash değerlerini de geçersiz kılacaktır.</p>
+<h2>Temel Bileşenleri</h2>
+<p>Blockchain teknolojisinin işleyişini anlamak için bazı temel unsurları bilmek gerekir:</p>
+<h3>Bloklar</h3>
+<p>Her blok, içinde belirli sayıda işlemi barındıran bir veri kabıdır. Bir blok genellikle şu bilgileri içerir:</p>
+<ul>
+<li><strong>Veri:</strong> İşlem detayları (kimden kime, ne kadar, ne zaman gibi).</li>
+<li><strong>Zaman Damgası:</strong> Bloğun oluşturulduğu zaman.</li>
+<li><strong>Kriptografik Özet (Hash):</strong> Bloğun benzersiz kimliği olan ve içeriğindeki veriden üretilen özel bir kod.</li>
+<li><strong>Önceki Bloğun Hash'i:</strong> Bloğun zincirdeki yerini belirleyen, kendinden önceki bloğun hash değeri.</li>
+</ul>
+<h3>Zincir</h3>
+<p>Bloklar, önceki bloğun hash değerini içerdikleri için birbirine bağlanarak bir zincir oluştururlar. Bu bağlantı, verinin bütünlüğünü ve değiştirilemezliğini sağlar.</p>
+<h3>Dağıtık Defter (Distributed Ledger)</h3>
+<p>Blockchain, merkezi bir sunucu veya otorite tarafından değil, ağdaki tüm katılımcılar (düğümler) arasında paylaşılan ve senkronize edilen bir defterdir. Her düğüm, defterin tam bir kopyasına sahiptir.</p>
+<h3>Kriptografi</h3>
+<p>Blockchain, verilerin güvenliğini ve bütünlüğünü sağlamak için karmaşık matematiksel algoritmalar ve kriptografik özet fonksiyonları (hashing) kullanır. Bu sayede, işlemlerin kimliği doğrulanır ve veri manipülasyonu önlenir.</p>
+<h3>Mutabakat Mekanizması (Consensus Mechanism)</h3>
+<p>Ağdaki düğümlerin, yeni bir bloğun geçerliliği ve zincire eklenmesi konusunda anlaşmaya varmasını sağlayan kurallar bütünüdür. En yaygın olanları Proof of Work (İş İspatı) ve Proof of Stake (Hisse İspatı) mekanizmalarıdır.</p>
+<h2>Blockchain Nasıl Çalışır?</h2>
+<p>Blockchain'in çalışma prensibi adımlar halinde özetlenebilir:</p>
+<ol>
+<li>
+<p><strong>İşlemin Başlatılması:</strong> Bir kullanıcı, ağ üzerinde bir işlem başlatır (örneğin, dijital para gönderme). Bu işlem, kriptografik olarak imzalanır ve ağa duyurulur.</p>
+</li>
+<li>
+<p><strong>Blok Oluşturma:</strong> İşlem, diğer bekleyen işlemlerle birlikte bir bloğun içine yerleştirilir.</p>
+</li>
+<li>
+<p><strong>Blok Doğrulama:</strong> Oluşturulan blok, ağdaki katılımcılar (madenciler veya doğrulayıcılar) tarafından mutabakat mekanizması aracılığıyla doğrulanır. Örneğin, Proof of Work'te madenciler, karmaşık bir matematiksel problemi çözerek bloğu &quot;çözmeye&quot; çalışır. Çözümü ilk bulan madenci, bloğu doğrular.</p>
+</li>
+<li>
+<p><strong>Zincire Ekleme:</strong> Doğrulanmış blok, zincire eklenir. Bu, yeni bloğun kendi hash değerinin oluşturulması ve önceki bloğun hash değerini içermesiyle gerçekleşir.</p>
+</li>
+<li>
+<p><strong>Dağıtım ve Senkronizasyon:</strong> Zincire eklenen yeni blok, ağdaki tüm düğümlere dağıtılır ve her düğüm kendi defter kopyasını günceller. Bu sayede, ağdaki herkes defterin en güncel ve doğru haline sahip olur.</p>
+</li>
+</ol>
+<p>Bu döngü, her yeni işlemle tekrarlanır ve sürekli büyüyen, değişmez bir kayıt defteri oluşturulur.</p>
+<h2>Blockchain'in Özellikleri</h2>
+<p>Blockchain teknolojisi, kendine özgü bir dizi avantaj ve özellik sunar:</p>
+<ul>
+<li><strong>Merkeziyetsizlik:</strong> Verilerin tek bir otorite veya sunucu tarafından kontrol edilmemesi, güvenliği artırır ve sansürü zorlaştırır.</li>
+<li><strong>Şeffaflık:</strong> Ağdaki tüm işlemler herkes tarafından görüntülenebilir (ancak katılımcıların kimlikleri genellikle anonimdir).</li>
+<li><strong>Değişmezlik:</strong> Bir kez zincire eklenen bir bloğun içeriği, kriptografik bağlar nedeniyle değiştirilemez veya silinemez.</li>
+<li><strong>Güvenlik:</strong> Kriptografi ve dağıtık yapı, sistemi siber saldırılara ve hileye karşı dayanıklı hale getirir.</li>
+<li><strong>Verimlilik:</strong> Bazı durumlarda, merkezi aracılara duyulan ihtiyacı ortadan kaldırarak işlem sürelerini ve maliyetleri azaltabilir.</li>
+</ul>
+<h2>Kullanım Alanları</h2>
+<p>Blockchain teknolojisi, kripto paraların ötesinde birçok alanda uygulama potansiyeline sahiptir:</p>
+<ul>
+<li><strong>Kripto Paralar:</strong> Bitcoin ve Ethereum gibi dijital para birimlerinin temelini oluşturur.</li>
+<li><strong>Akıllı Sözleşmeler:</strong> Belirli koşullar yerine getirildiğinde otomatik olarak yürütülen kod parçacıklarıdır ve aracılara olan ihtiyacı azaltır.</li>
+<li><strong>Tedarik Zinciri Yönetimi:</strong> Ürünlerin menşeini, hareketini ve durumunu takip etmek için şeffaf ve izlenebilir bir sistem sağlar.</li>
+<li><strong>Sağlık Hizmetleri:</strong> Hasta kayıtlarının güvenli ve paylaşımlı bir şekilde yönetilmesi, veri bütünlüğünü ve gizliliğini artırır.</li>
+<li><strong>Oylama Sistemleri:</strong> Daha şeffaf, güvenli ve denetlenebilir seçim sistemleri oluşturmak için kullanılabilir.</li>
+<li><strong>Dijital Kimlik:</strong> Kişisel kimlik bilgilerinin güvenli ve kullanıcı kontrollü bir şekilde yönetilmesi.</li>
+</ul>
+<h2>Sonuç</h2>
+<p>Blockchain teknolojisi, güveni merkezi bir otoriteden alıp matematiksel algoritmalara ve ağ katılımcılarına devrederek dijital etkileşim şeklimizi değiştiren devrimsel bir yeniliktir. Merkeziyetsiz, şeffaf, değişmez ve güvenli yapısı sayesinde, birçok sektörde operasyonları daha verimli ve güvenilir hale getirme potansiyeline sahiptir.</p>

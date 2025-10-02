@@ -1,0 +1,1 @@
+Rönesans ("yeniden doğuş"), 14-17. yüzyıllar arasında Avrupa'da Orta Çağ sonundan erken modern döneme geçişin kültürel, sanatsal ve bilimsel canlanma sürecidir. Antik Yunan ve Roma'ya ilginin canlanmasıyla; bilim, sanat ve insan odaklı düşünce ön plana çıkmıştır.

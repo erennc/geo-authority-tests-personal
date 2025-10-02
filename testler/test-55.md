@@ -1,0 +1,25 @@
+# Küresel Isınmanın Nedenleri
+
+Küresel ısınma, gezegenimizin karşı karşıya olduğu en kritik çevresel sorunlardan biridir. Dünya'nın atmosferi ve okyanuslarının ortalama sıcaklığında gözlemlenen bu uzun vadeli artışın başlıca sorumlusu, insan faaliyetleri neticesinde atmosferdeki sera gazı konsantrasyonlarının tehlikeli biçimde yükselmesidir.
+
+## İnsan Kaynaklı Faaliyetler
+
+Sanayi Devrimi'nin başlangıcından itibaren, insanlığın faaliyetleri gezegenimizin iklim dengesini köklü bir şekilde değiştirmiştir. Bu kritik değişim, özellikle sera gazlarının atmosfere kontrolsüz salımının artmasıyla açıkça görülmektedir.
+
+### Sera Gazı Emisyonları
+
+Sera gazları, normalde Dünya'dan yansıyan ısıyı tutarak gezegenin sıcaklığını yaşam için elverişli bir seviyede tutan hayati bir doğal süreç olan sera etkisinin anahtar unsurlarıdır. Ancak ne yazık ki, insan faaliyetleri bu gazların atmosferdeki oranını endişe verici seviyelere taşımıştır.
+
+*   **Fosil Yakıtların Yakılması:** Fosil yakıtlar – kömür, petrol ve doğalgaz – elektrik üretimi, ulaşım, sanayi ve konut ısıtması gibi temel ihtiyaçlarımızda yoğun olarak kullanılmaktadır. Bu kullanım, atmosfere devasa miktarlarda karbondioksit (CO2) salınmasına yol açarak, küresel ısınmanın tartışmasız en büyük tek nedenini oluşturmaktadır.
+
+*   **Sanayileşme:** Günümüz sanayisi, çimento üretimi, kimyasal üretim ve metal işleme gibi kritik süreçleriyle yalnızca ürünler sunmakla kalmıyor, aynı zamanda karbondioksit, azot oksitler (N2O) ve florlu gazlar (HFC'ler, PFC'ler, SF6) gibi potent sera gazlarını da atmosfere bırakıyor.
+
+*   **Ormansızlaşma ve Arazi Kullanımı Değişiklikleri:** Ormanlar, gezegenimizin en değerli doğal karbon yataklarıdır ve fotosentez yoluyla atmosferdeki CO2'yi emerek hayati bir rol oynarlar. Ancak tarım alanları açma, şehirleşme veya kereste temini amacıyla ormanların acımasızca kesilmesi ve yakılması, hem bu yaşamsal karbon yataklarını yok etmekte hem de depolanmış karbonu CO2 olarak atmosfere hızla salmaktadır.
+
+*   **Tarımsal Faaliyetler:** Tarım sektörü, insanlığın besin ihtiyacını karşılarken, özellikle metan (CH4) ve azot oksit (N2O) emisyonlarının kayda değer bir kaynağı haline gelmiştir. Büyükbaş hayvan yetiştiriciliği ve pirinç tarlaları metan gazı salımına neden olurken, modern azot bazlı gübrelerin yoğun kullanımı ve yetersiz atık yönetimi azot oksit emisyonlarını tetiklemektedir.
+
+*   **Atık Yönetimi:** Gündelik yaşamın kaçınılmaz bir parçası olan atık depolama alanlarında organik maddelerin ayrışması süreci, atmosfere ciddi miktarda metan gazı salınımına yol açmaktadır.
+
+### Doğal Faktörler (Sınırlı Etki)
+
+Küresel iklim sistemimiz, güneş aktivitesindeki değişiklikler veya volkanik patlamalar gibi doğal dalgalanmalara tarih boyunca tanıklık etmiştir. Ancak, modern bilimsel konsensüs ve yapılan kapsamlı araştırmalar, son yüzyıldaki endişe verici derecede hızlı ısınmanın sadece doğal faktörlerle açıklanamayacağını net bir şekilde ortaya koymaktadır. Aksine, insan kaynaklı sera gazı emisyonlarının bu dramatik değişimin ezici ve baskın nedeni olduğu bilimsel olarak kanıtlanmıştır.

@@ -1,0 +1,152 @@
+<h1>Mavi Ekran Hatası (BSOD) Çözüm Rehberi</h1>
+<p>Mavi ekran hatası (Blue Screen of Death - BSOD), Windows'un ciddi bir sorunla karşılaştığını ve güvenli bir şekilde çalışmayı durdurduğunu gösterir. Bu rehber, adım adım sorunu teşhis etmenize ve çözmenize yardımcı olacaktır.</p>
+<h2>1. Hatayı Teşhis Etme</h2>
+<p>Mavi ekranında genellikle bir hata kodu (örneğin, <code>DRIVER_IRQL_NOT_LESS_OR_EQUAL</code>, <code>MEMORY_MANAGEMENT</code>, <code>CRITICAL_PROCESS_DIED</code>) veya bir QR kodu bulunur. Bu kodu not almak, sorunun kaynağını belirlemede kritik öneme sahiptir.</p>
+<ul>
+<li>Hata kodunu (örneğin, <code>0x0000001A</code> veya <code>KMODE_EXCEPTION_NOT_HANDLED</code>) bir kenara yazın.</li>
+<li>QR kodu varsa, telefonunuzla tarayarak Microsoft destek sayfasına ulaşabilirsiniz.</li>
+</ul>
+<h2>2. Temel Çözümler</h2>
+<p>Mavi ekran hatasını yeni alıyorsanız, aşağıdaki basit adımlarla başlayın.</p>
+<h3>Bilgisayarı Yeniden Başlatma</h3>
+<p>Bazen geçici bir hata olabilir. Bilgisayarı yeniden başlatmak sorunu çözebilir.</p>
+<h3>Harici Cihazları Çıkarma</h3>
+<p>Yeni bir donanım taktıysanız veya belirli bir cihaz (USB sürücü, yazıcı vb.) takılıyken hata alıyorsanız, tüm harici cihazları çıkarın ve bilgisayarı tekrar başlatın. Sorun çözülürse, cihazları tek tek takarak hangi cihazın soruna neden olduğunu bulabilirsiniz.</p>
+<h3>Son Yapılan Değişiklikleri Hatırlama</h3>
+<ul>
+<li><strong>Yeni Yazılım Kurulumu</strong>: Yeni bir program, oyun veya sürücü yükledikten sonra mı mavi ekran almaya başladınız?</li>
+<li><strong>Donanım Değişikliği</strong>: Yeni bir RAM, ekran kartı veya başka bir bileşen mi taktınız?</li>
+<li><strong>Windows Güncellemesi</strong>: Bir Windows güncellemesi yükledikten sonra mı hata ortaya çıktı?</li>
+</ul>
+<p>Bu soruların cevapları, sorunun kaynağını bulmada önemli ipuçları verebilir.</p>
+<h2>3. Güvenli Modda Başlatma</h2>
+<p>Mavi ekran hatası bilgisayarın normal başlatılmasını engelliyorsa, Güvenli Mod'da başlatmak sorunu çözmeye yönelik adımları uygulamanızı sağlar. Güvenli Mod, Windows'u minimum sürücüler ve hizmetlerle başlatır.</p>
+<h3>Güvenli Mod'a Giriş</h3>
+<ol>
+<li>Bilgisayarı kapatın.</li>
+<li>Bilgisayarı açın ve Windows logosunu görmeden önce (genellikle birkaç deneme gerekebilir) güç düğmesine basılı tutarak kapatın. Bu işlemi 2-3 kez tekrarladığınızda, Windows Kurtarma Ortamı otomatik olarak açılacaktır.</li>
+<li>Kurtarma Ortamı'nda:
+<ul>
+<li><code>Sorun Giderme</code> seçeneğini seçin.</li>
+<li><code>Gelişmiş Seçenekler</code>'i seçin.</li>
+<li><code>Başlangıç Ayarları</code>'nı seçin ve <code>Yeniden Başlat</code>'a tıklayın.</li>
+<li>Bilgisayar yeniden başladığında, bir seçenekler listesi göreceksiniz. <code>Ağ ile Güvenli Mod</code> (genellikle 5 veya F5 tuşu) seçeneğini tercih edin.</li>
+</ul>
+</li>
+</ol>
+<h2>4. Yazılımsal Çözümler (Güvenli Mod'da veya Normal Başlangıçta)</h2>
+<p>Bilgisayarınız Güvenli Mod'a girebiliyorsa veya hata nadiren meydana geliyorsa, aşağıdaki yazılımsal çözümleri uygulayın.</p>
+<h3>Sürücüleri Güncelleme veya Geri Alma</h3>
+<p>Genellikle mavi ekran hatalarının ana nedeni bozuk veya güncel olmayan sürücülerdir.</p>
+<ul>
+<li><strong>Ekran Kartı Sürücüleri</strong>: Özellikle ekran kartı sürücüleri mavi ekranlara yol açabilir. Üreticinin (NVIDIA, AMD, Intel) web sitesinden en güncel sürücüleri indirip kurun.</li>
+<li><strong>Diğer Sürücüler</strong>: Aygıt Yöneticisi'ne (Başlat'a sağ tıklayıp seçebilirsiniz) gidin, ünlem işareti olan veya sorunlu görünen aygıtları kontrol edin ve sürücülerini güncelleyin.</li>
+<li><strong>Sürücü Geri Alma</strong>: Yeni bir sürücü yükledikten sonra hata almaya başladıysanız, Aygıt Yöneticisi'nde ilgili aygıtın özelliklerine girip <code>Sürücü</code> sekmesinden <code>Sürücüyü Geri Al</code> seçeneğini kullanın.</li>
+</ul>
+<h3>Windows Güncellemelerini Kontrol Etme</h3>
+<p>Windows güncellemeleri, bilinen hataları düzelten ve güvenlik açıklarını kapatan yamalar içerebilir.</p>
+<ol>
+<li><code>Ayarlar</code> &gt; <code>Güncelleştirme ve Güvenlik</code> &gt; <code>Windows Update</code> yolunu izleyin.</li>
+<li><code>Güncellemeleri denetle</code>'ye tıklayın ve mevcut güncellemeleri yükleyin.</li>
+</ol>
+<h3>Sistem Dosyalarını Kontrol Etme</h3>
+<p>Bozuk sistem dosyaları mavi ekranlara yol açabilir.</p>
+<ol>
+<li>
+<p>Yönetici olarak Komut İstemi'ni açın (Başlat'a sağ tıklayıp <code>Komut İstemi (Yönetici)</code> veya <code>Windows PowerShell (Yönetici)</code>).</p>
+</li>
+<li>
+<p>Aşağıdaki komutları sırayla çalıştırın:</p>
+<pre><code class="language-bash">sfc /scannow
+</code></pre>
+<p>Bu komut, korumalı sistem dosyalarını tarar ve bozuk dosyaları düzeltir. İşlem bittikten sonra bilgisayarı yeniden başlatın.
+Eğer sorun devam ederse, DISM (Dağıtım Görüntüsü Hizmet ve Yönetimi) aracını kullanın:</p>
+<pre><code class="language-bash">DISM /Online /Cleanup-Image /RestoreHealth
+</code></pre>
+<p>Bu komut, Windows görüntü dosyalarını onarır. İşlem tamamlandığında tekrar <code>sfc /scannow</code> komutunu çalıştırmayı deneyin ve ardından bilgisayarı yeniden başlatın.</p>
+</li>
+</ol>
+<h3>Virüs ve Kötü Amaçlı Yazılım Taraması</h3>
+<p>Zararlı yazılımlar sistem kararsızlığına ve mavi ekranlara neden olabilir. Güvenli Mod'dayken veya normal modda tam bir sistem taraması yapın.</p>
+<ul>
+<li>Windows Defender (yerleşik) veya güvenilir bir üçüncü taraf antivirüs programı kullanın.</li>
+</ul>
+<h3>Son Yüklenen Yazılımları Kaldırma</h3>
+<p>Mavi ekran hatası, belirli bir programı yükledikten sonra başladıysa, o programı kaldırın.</p>
+<ol>
+<li><code>Ayarlar</code> &gt; <code>Uygulamalar</code> &gt; <code>Uygulamalar ve özellikler</code> yolunu izleyin.</li>
+<li>Sorunlu olduğunu düşündüğünüz uygulamayı bulun ve kaldırın.</li>
+</ol>
+<h3>Sistem Geri Yükleme</h3>
+<p>Bilgisayarınızda bir geri yükleme noktası oluşturulduysa, mavi ekran hatası oluşmadan önceki bir zamana sistemi geri yükleyebilirsiniz.</p>
+<ol>
+<li>Windows arama çubuğuna <code>geri yükleme noktası oluştur</code> yazın ve çıkan sonuca tıklayın.</li>
+<li><code>Sistem Geri Yükleme</code> düğmesine tıklayın.</li>
+<li>Önerilen geri yükleme noktasını seçebilir veya <code>Farklı bir geri yükleme noktası seç</code> seçeneği ile geçmişteki bir noktayı seçebilirsiniz.</li>
+<li>İşlemi onaylayın ve sistemin geri yüklenmesini bekleyin.</li>
+</ol>
+<h2>5. Donanımsal Çözümler</h2>
+<p>Yazılımsal çözümler işe yaramazsa, donanım kaynaklı bir sorun olma ihtimali yüksektir.</p>
+<h3>Bellek (RAM) Kontrolü</h3>
+<p>Bozuk veya uyumsuz RAM modülleri sıkça mavi ekran hatalarına neden olur (<code>MEMORY_MANAGEMENT</code>, <code>CRITICAL_PROCESS_DIED</code>).</p>
+<ol>
+<li>Windows arama çubuğuna <code>Windows Bellek Tanılama</code> yazın ve çıkan uygulamayı çalıştırın.</li>
+<li><code>Şimdi yeniden başlat ve sorunları denetle (önerilen)</code> seçeneğini seçin.</li>
+<li>Bilgisayar yeniden başlayacak ve bellek testi yapacaktır. Test sonuçları Windows oturumu açıldıktan sonra bildirim olarak görünecektir.</li>
+</ol>
+<p>Eğer birden fazla RAM modülünüz varsa, her birini tek tek deneyerek hangisinin sorunlu olduğunu tespit edebilirsiniz.</p>
+<h3>Depolama Sürücüsünü (HDD/SSD) Kontrol Etme</h3>
+<p>Bozuk bir sabit disk veya SSD, sistem dosyalarının bozulmasına ve mavi ekranlara neden olabilir.</p>
+<ol>
+<li>
+<p>Yönetici olarak Komut İstemi'ni açın.</p>
+</li>
+<li>
+<p>Aşağıdaki komutu yazın ve Enter'a basın:</p>
+<pre><code class="language-bash">chkdsk /f /r
+</code></pre>
+</li>
+<li>
+<p><code>Cihaz bir sonraki sistem başlangıcında kontrol edilsin mi? (E/H)</code> sorusuna <code>E</code> yazıp Enter'a basın.</p>
+</li>
+<li>
+<p>Bilgisayarı yeniden başlatın. Disk denetimi başlangıçta çalışacak ve olası sorunları onaracaktır.</p>
+</li>
+</ol>
+<h3>Aşırı Isınmayı Kontrol Etme</h3>
+<p>İşlemci, ekran kartı veya diğer bileşenlerin aşırı ısınması sistem kararsızlığına ve mavi ekranlara yol açabilir.</p>
+<ul>
+<li>CPU ve GPU sıcaklıklarını izlemek için HWMonitor veya Speccy gibi programları kullanın.</li>
+<li>Kasa içi hava akışını kontrol edin, fanların düzgün çalıştığından emin olun.</li>
+<li>Bilgisayarın içini temizleyin, toz birikintilerini hava kompresörü ile temizleyin.</li>
+</ul>
+<h3>Güç Kaynağı Kontrolü</h3>
+<p>Yetersiz veya arızalı bir güç kaynağı, bileşenlere düzgün güç sağlayamadığında kararsızlığa neden olabilir. Bu kontrol genellikle test ekipmanı gerektirdiğinden, bir uzmana danışmak daha iyi olabilir.</p>
+<h3>Bileşenleri Yeniden Oturma (Reseat)</h3>
+<p>Eğer donanımınıza erişebiliyorsanız ve bilginiz varsa:</p>
+<ul>
+<li><strong>RAM Modülleri</strong>: RAM modüllerini yuvalarından çıkarıp temiz bir şekilde tekrar takın.</li>
+<li><strong>Ekran Kartı</strong>: Ekran kartını çıkarıp tekrar PCI-e yuvasına düzgünce oturtun.</li>
+</ul>
+<h2>6. Gelişmiş Çözümler ve Son Çareler</h2>
+<p>Yukarıdaki çözümler işe yaramazsa, daha köklü adımlar atmanız gerekebilir.</p>
+<h3>Windows'u Sıfırlama</h3>
+<p>Windows, işletim sistemini yeniden kurmanıza olanak tanıyan bir sıfırlama seçeneği sunar.</p>
+<ol>
+<li><code>Ayarlar</code> &gt; <code>Güncelleştirme ve Güvenlik</code> &gt; <code>Kurtarma</code> yolunu izleyin.</li>
+<li><code>Bu bilgisayarı sıfırla</code> altında <code>Başlayın</code> düğmesine tıklayın.</li>
+<li>İki seçenek sunulur:
+<ul>
+<li><code>Dosyalarımı Sakla</code>: Kişisel dosyalarınızı korur, ancak uygulamaları ve ayarları kaldırır.</li>
+<li><code>Her Şeyi Kaldır</code>: Her şeyi siler ve Windows'u sıfırdan kurar. Eğer sorununuzun kaynağı kişisel dosyalarınızda veya uygulamalarınızdaysa bu daha kesin bir çözümdür.</li>
+</ul>
+</li>
+</ol>
+<h3>Temiz Windows Kurulumu</h3>
+<p>Windows'u sıfırlamak da işe yaramazsa veya tam bir temiz başlangıç yapmak istiyorsanız, bir USB sürücüden veya DVD'den temiz bir Windows kurulumu yapmanız gerekebilir. Bu, tüm disk içeriğini siler ve Windows'u tamamen sıfırdan kurar.</p>
+<ul>
+<li>Önemli verilerinizi yedeklediğinizden emin olun!</li>
+<li>Microsoft'un resmi web sitesinden Windows kurulum medyasını oluşturma aracını indirin.</li>
+</ul>
+<h2>7. Profesyonel Yardım Alma</h2>
+<p>Yukarıdaki adımların hiçbiri sorunu çözmezse veya donanım kontrolü konusunda kendinize güvenmiyorsanız, bilgisayarınızı bir teknik servise götürmeniz en sağlıklısı olacaktır. Özellikle anakart, işlemci veya güç kaynağı gibi kritik bileşenlerde sorun varsa, profesyonel teşhis ve onarım gerekebilir.</p>

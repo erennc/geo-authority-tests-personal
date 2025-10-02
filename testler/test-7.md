@@ -1,0 +1,59 @@
+# Demokrasi
+
+Demokrasi, kökeni Antik Yunanca "demos" (halk) ve "kratos" (yönetim) kelimelerine dayanan, yönetme yetkisinin doğrudan halkta olduğu veya halkın seçtiği temsilciler aracılığıyla kullanıldığı bir yönetim biçimidir. Bu sistemde, tüm vatandaşlar yasalar önünde eşit haklara sahiptir ve siyasi kararların alınmasında söz sahibidir. Demokrasi, sadece bir yönetim modeli olmakla kalmayıp, aynı zamanda halkın iradesinin egemenliğini ve bireysel hakların korunmasını esas alan bir yaşam biçimi ve değerler bütünü olarak kabul edilir.
+
+## Tarihsel Gelişim
+
+Demokrasi fikrinin ilk tohumları Antik Yunan'da atılmıştır. MÖ 5. yüzyılda Atina'da ortaya çıkan "doğrudan demokrasi" modelinde, vatandaşlar meclislerde toplanarak yasaları ve önemli kararları doğrudan oylarlardı. Ancak bu model, sadece erkek, özgür ve Atinalı vatandaşları kapsıyor, köleler, kadınlar ve yabancılar siyasi süreçlerin dışında tutuluyordu. Roma Cumhuriyeti de, halkın seçtiği temsilciler aracılığıyla yönetimi öngörerek temsili demokrasinin ilk adımlarını atmıştır.
+
+Orta Çağ'da mutlak monarşilerin yükselişiyle demokrasi fikri arka planda kalsa da, Magna Carta gibi belgelerle kralın yetkilerinin sınırlandırılması ve parlamento gibi kurumların ortaya çıkışı, ilerideki demokratikleşme süreçlerine zemin hazırlamıştır. Aydınlanma Çağı'nda ise John Locke, Jean-Jacques Rousseau ve Montesquieu gibi düşünürler, doğal haklar, halk egemenliği ve kuvvetler ayrılığı gibi ilkelerle modern demokrasi anlayışının teorik temellerini atmışlardır.
+
+18. yüzyıldaki Amerikan ve Fransız devrimleri, modern ulus-devletlerde demokratik yönetim biçimlerinin fiilen uygulanmaya başlandığı dönüm noktaları olmuştur. 19. ve 20. yüzyıllarda oy hakkının genişlemesi, kadınlara ve azınlıklara siyasi haklar tanınması, sendikal hareketlerin ve sivil toplum kuruluşlarının gelişmesiyle demokrasi, daha kapsayıcı ve katılımcı bir yapıya bürünmüştür.
+
+## Demokrasi Türleri
+
+Demokrasi, uygulama şekillerine ve vurguladığı ilkelere göre farklı türlere ayrılabilir:
+
+### Doğrudan Demokrasi
+
+Doğrudan demokrasi, vatandaşların yasaları ve kamu politikalarını doğrudan oylayarak kararlar aldığı bir sistemdir. Antik Atina'daki uygulaması en bilinen örneğidir. Günümüzde ise, özellikle İsviçre'deki bazı kantonlarda referandum, halk inisiyatifi ve halk vetosu gibi araçlarla sınırlı da olsa doğrudan demokrasi unsurları kullanılmaktadır. Bu modelde, halkın iradesi aracısız bir şekilde yönetime yansır.
+
+### Temsili (Dolaylı) Demokrasi
+
+Modern devletlerin çoğunda uygulanan temsili demokrasi, halkın, kendi adına karar alacak temsilcileri belirli aralıklarla özgür ve adil seçimlerle seçmesi esasına dayanır. Seçilen temsilciler, parlamentolarda veya diğer yasama organlarında halkın çıkarlarını savunur ve kararlar alır. Temsili demokrasi kendi içinde farklı modellere ayrılır:
+
+*   **Parlamenter Demokrasi:** Yürütme organının (hükümetin) yasama organından (parlamentodan) güvenoyu alarak kurulduğu ve genellikle bir başbakanın liderlik ettiği sistemdir (örn. Birleşik Krallık, Almanya). Yürütme ve yasama arasında yakın bir ilişki bulunur.
+
+*   **Başkanlık Demokrasisi:** Yürütme organının başı olan başkanın, yasama organından bağımsız olarak halk tarafından seçildiği bir sistemdir (örn. ABD). Yasama ve yürütme organları arasında sert bir kuvvetler ayrılığı ilkesi benimsenir.
+
+*   **Yarı Başkanlık Demokrasisi:** Hem doğrudan halk tarafından seçilen güçlü bir başkana hem de parlamentoya karşı sorumlu bir başbakana sahip olan karma bir sistemdir (örn. Fransa).
+
+### Anayasal Demokrasi
+
+Anayasal demokrasi, devletin yetkilerinin bir anayasa ile sınırlandığı ve vatandaşların temel hak ve özgürlüklerinin anayasal güvence altına alındığı bir yönetim biçimidir. Bu tür demokrasilerde, hukukun üstünlüğü ilkesi esastır ve devletin hiçbir organı anayasanın üzerinde değildir. Anayasa mahkemeleri gibi kurumlar, yasaların anayasaya uygunluğunu denetler.
+
+### Liberal Demokrasi
+
+Liberal demokrasi, bireysel hak ve özgürlüklerin korunmasına özel önem veren bir demokrasi türüdür. İfade özgürlüğü, toplanma özgürlüğü, mülkiyet hakkı, din ve vicdan özgürlüğü gibi temel hakların güvence altına alındığı, hukukun üstünlüğünün titizlikle uygulandığı ve azınlık haklarının korunduğu bir sistemdir. Çoğulculuk ve siyasi rekabet, liberal demokrasinin temel unsurlarındandır.
+
+### Sosyal Demokrasi
+
+Sosyal demokrasi, liberal demokrasinin temel ilkelerini korurken, sosyal adalet, ekonomik eşitlik ve refah devleti anlayışını ön plana çıkaran bir yaklaşımdır. Piyasa ekonomisini kabul etmekle birlikte, devletin sağlık, eğitim, sosyal güvenlik gibi alanlarda aktif rol alarak fırsat eşitliğini sağlaması ve gelir dağılımındaki eşitsizlikleri azaltması gerektiğini savunur.
+
+## Temel Değerler ve İlkeler
+
+Demokrasi; özgürlük, eşitlik, hukukun üstünlüğü ve bireysel hakların korunması gibi evrensel temel değerler üzerine kuruludur.
+
+*   **Özgürlük:** Bireylerin devlet müdahalesi olmaksızın düşünebilme, ifade edebilme, toplanabilme, inançlarını yaşayabilme ve siyasi tercihlerini yapabilme haklarını kapsar. Demokrasilerde özgürlükler, başkalarının hak ve özgürlüklerini ihlal etmediği sürece geniş bir alana yayılır.
+
+*   **Eşitlik:** Tüm vatandaşların yasalar önünde eşit haklara sahip olmasını, cinsiyet, ırk, din, etnik köken veya sosyal statü ayrımı gözetmeksizin aynı muameleye tabi tutulmasını ifade eder. Aynı zamanda, fırsat eşitliğinin sağlanması da demokratik eşitlik anlayışının önemli bir parçasıdır.
+
+*   **Hukukun Üstünlüğü:** Hem vatandaşların hem de devletin tüm organlarının yasalara tabi olması ve keyfi uygulamalardan uzak durması ilkesidir. Yargı bağımsızlığı ve tarafsızlığı, hukukun üstünlüğünün güvencesidir.
+
+*   **Bireysel Hakların Korunması:** Yaşama hakkı, adil yargılanma hakkı, özel hayatın gizliliği, mülkiyet hakkı gibi bireyin vazgeçilmez temel hak ve özgürlüklerinin anayasal ve yasal güvencelerle korunmasıdır.
+
+*   **Çoğunluk Yönetimi ve Azınlık Hakları:** Demokrasi, kararların çoğunluk oylarıyla alınmasını öngörürken, aynı zamanda azınlıkta kalan grupların haklarının korunmasını ve seslerinin duyulmasını da garanti altına alır. Çoğunluk despotizmine karşı azınlık hakları kritik bir denge unsurudur.
+
+*   **Çoğulculuk:** Toplumda farklı siyasi görüşlerin, ideolojilerin, çıkar gruplarının ve yaşam tarzlarının varlığına izin verilmesi ve bu farklılıkların siyasi süreçlere katılımının teşvik edilmesidir.
+
+*   **Şeffaflık ve Hesap Verebilirlik:** Hükümetin ve kamu kurumlarının faaliyetlerinin halka açık olması, kararların gerekçelerinin açıklanması ve yetkililerin eylemlerinden dolayı halka karşı sorumlu olmasıdır. Bu ilkeler, yönetimin güvenilirliğini ve meşruiyetini artırır.
